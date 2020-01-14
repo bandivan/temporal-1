@@ -1,2 +1,2 @@
 # temporal-
-#Este es el repositorio temmporal 1.
+#Este es el repositorio temporal
